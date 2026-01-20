@@ -1,0 +1,3 @@
+ball_speed player_1_=5
+ball_speed player_2_=10
+"when score 5" print("you won")
